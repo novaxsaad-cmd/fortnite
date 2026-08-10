@@ -4,8 +4,8 @@
   "description": "Fortnite cheats - ESP, aimbot and wallhack guides on fncheats.com",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0b1220",
-  "theme_color": "#ff7a28",
+  "background_color": "#07050f",
+  "theme_color": "#a855f7",
   "icons": [
     {
       "src": "/images/icon-192.png",
