@@ -1,7 +1,17 @@
 # fncheats.com
 
-Static Fortnite cheats site for Cloudflare Pages.
+Static Fortnite cheats site for Cloudflare.
 
-Deploy the repository root. `sitemap.xml` and `robots.txt` are in the root.
+## Cloudflare Pages (recommended)
 
-Build command: none (static). Output directory: `/`.
+In the Pages project settings:
+
+- Framework preset: `None`
+- Build command: leave empty
+- Build output directory: `/`
+- Root directory: `/`
+- Deploy command: leave empty (do not use `npx wrangler deploy`)
+
+## If your project runs `npx wrangler deploy`
+
+`wrangler.toml` is configured with `[assets] directory = "."` so that command publishes the static site.

@@ -1,3 +1,8 @@
 name = "fncheats"
 compatibility_date = "2026-08-10"
-pages_build_output_dir = "."
+
+# Static site via Workers Assets (works with: npx wrangler deploy)
+[assets]
+directory = "."
+not_found_handling = "404-page"
+html_handling = "auto-trailing-slash"

@@ -1,0 +1,12 @@
+.git
+.gitignore
+.assetsignore
+node_modules
+README.md
+readme.md
+wrangler.toml
+package.json
+package-lock.json
+css/styles.css
+js/main.js
+*.log
