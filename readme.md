@@ -1,4 +1,4 @@
-# fncheats.com
+# fncheats.net
 
 Static Fortnite cheats site for Cloudflare.
 

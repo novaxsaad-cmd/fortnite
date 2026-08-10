@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fncheats.com/sitemap.xml
+Sitemap: https://fncheats.net/sitemap.xml
