@@ -1,0 +1,21 @@
+{
+  "name": "fncheats.com",
+  "short_name": "fncheats",
+  "description": "Fortnite cheats - ESP, aimbot and wallhack guides on fncheats.com",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#ff7a28",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
